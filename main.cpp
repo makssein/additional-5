@@ -13,7 +13,7 @@ int main(){
     int n, s;
     s=0;
     int mas[N];
-    int count[N];
+    int count[M];
     int c = 0;
 
     func::Input(n, mas);
