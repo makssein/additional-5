@@ -5,7 +5,6 @@
 
 */
 #include <iostream>
-#include <fstream>
 #include "func.h"
 #define N 20000
 #define M 10000
